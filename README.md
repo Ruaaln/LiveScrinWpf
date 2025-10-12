@@ -8,7 +8,7 @@ Server ekran görüntülərini TCP üzərindən göndərir, Client isə onları 
 
 ## 📸 Ekran görüntüsü
 
-![LiveScreenPreview](./Image.png)
+![LiveScreenPreview](Image)
 
 ---
 
